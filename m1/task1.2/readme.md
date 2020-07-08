@@ -60,6 +60,7 @@
 ---
 20. Do not delete any branches!
 21. Merge develop into master.
+
 ![16](homework_screenshots/16.png)
 ---
 22. Try to inspect your repository with git log command. Use different options with this command (git log --help).
@@ -72,9 +73,9 @@
 ![19](homework_screenshots/19.png)
 ---
 25. Add in repository your trainers (ask their email) as collaborators.
-![21](homework_screenshots/20.png)
+![21](homework_screenshots/21.png)
 ---
-26. Add task1.2_GIT.txtto your local repo in then Push it in GitHubrepo.
+26. Add task1.2_GIT.txt to your local repo in then Push it in GitHubrepo.
 ![20](homework_screenshots/20.png)
 ---
 27. Make file readme.md  in folder task1.2 and describe results of your work with Git.
