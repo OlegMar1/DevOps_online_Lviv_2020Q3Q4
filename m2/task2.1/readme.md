@@ -10,7 +10,7 @@ __Citrix XenServer, Microsoft Hyper-V, Red Hat KVM  and VMware vSphere__ are the
 
   Launched in 2008, Microsoft Hyper-V helps in expanding or establishing a private cloud environment. It promotes effective hardware utilization, improves business continuity, as well as makes development and test more efficient.
 
-  ###### _Features of Microsoft Hyper-V:_
+  ##### Features of Microsoft Hyper-V:
   * Simple Two-Node clusters.
   * Persistent memory support.
   * Encrypted subnets.
@@ -23,7 +23,7 @@ __Citrix XenServer, Microsoft Hyper-V, Red Hat KVM  and VMware vSphere__ are the
 
   KVM (Kernel-based Virtual Machine), a part of Red Hat Virtualization Suite, is a complete virtualization infrastructure solution. KVM turns Linux kernel into a hypervisor. It was merged into the Linux kernel mainline in kernel version 2.6.20.
 
-  ###### _Features of Red Hat KVM:_
+  ##### Features of Red Hat KVM:
   * Container support
   * Hot plug of virtual resources
   * Low-cost virtualization solution
@@ -37,7 +37,7 @@ __Citrix XenServer, Microsoft Hyper-V, Red Hat KVM  and VMware vSphere__ are the
 
   vSphere, the server virtualization platform of VMware, is a set of products that not only includes virtualization, but also management and interface layers. It provides a number of key components including infrastructure services (vCompute, vStorage, and vNetwork), application services, vCenter Server, vSphere Client, etc.
 
-  ###### _Features of VMware vSphere:_
+  ##### Features of VMware vSphere:
   * __vCenter Server:__ A centralized management tool used to configure, provision and manage virtual IT environments.
   * __vSphere SDKs:__ Provides interfaces for third-party solutions to access vSphere.
   * __VM File System:__ Cluster file system for VMs.
@@ -51,7 +51,7 @@ __Citrix XenServer, Microsoft Hyper-V, Red Hat KVM  and VMware vSphere__ are the
 
   Based on Xen Project Hypervisor, XenServer is an open-sourced bare-metal server virtualization platform. It consists of enterprise-grade features that help enterprises to easily handle workloads, combined OS, and networking configurations. XenServer provides improved virtualized graphics with NIVIDA and Intel and allows execution of multiple computer operating systems on same computer hardware.
 
-  ###### _Features of Citrix XenServer:_
+  ##### Features of Citrix XenServer:
   * Site Recovery
   * Host Failure Protection
   * Multi-server management
