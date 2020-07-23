@@ -65,3 +65,4 @@
   * Deleating the cluster
 
   ![1](screenshots/17.png)
+ 
