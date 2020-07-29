@@ -92,3 +92,4 @@
 ![20](homework_screenshots/20.png)
 ---
 27. Make file readme.md  in folder task1.2 and describe results of your work with Git.
+ 

@@ -57,4 +57,4 @@ __Citrix XenServer, Microsoft Hyper-V, Red Hat KVM  and VMware vSphere__ are the
   * Multi-server management
   * Dynamic Memory Control
   * Active Directory Integration
-  * Role-Based Administration and Control (RBAC)
+  * Role-Based Administration and Control (RBAC) 
