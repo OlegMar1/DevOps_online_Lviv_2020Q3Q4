@@ -55,7 +55,7 @@
 
 <a href="files/4.2.2.pkt" download>Click to Download</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IknCrwqIpKk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/IknCrwqIpKk/0.jpg)](https://www.youtube.com/watch?v=IknCrwqIpKk)
 
 ---
 
@@ -63,4 +63,4 @@
 
 <a href="files/4.2.3.pkt" download>Click to Download</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z-7MTpbpyEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/z-7MTpbpyEQ/0.jpg)](https://www.youtube.com/watch?v=z-7MTpbpyEQ)
