@@ -55,6 +55,8 @@
 
 <a href="files/4.2.2.pkt" download>Click to Download</a>
 
+#### __YouTube video (click to play):__
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/IknCrwqIpKk/0.jpg)](https://www.youtube.com/watch?v=IknCrwqIpKk)
 
 ---
@@ -62,5 +64,7 @@
 3. Необхідно  змоделювати  локальну  мережу  комплексу  з  5 одноповерхових будівель. Одна будівля -1 робоча група по 6 комп'ютерів. Мережа будується на основі маршрутизатора з одним портом.
 
 <a href="files/4.2.3.pkt" download>Click to Download</a>
+
+#### __YouTube video (click to play):__
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/z-7MTpbpyEQ/0.jpg)](https://www.youtube.com/watch?v=z-7MTpbpyEQ)
