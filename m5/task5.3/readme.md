@@ -20,7 +20,7 @@
 ---
 
 2. Discovering soft and hard links. Comment on results of these commands (place the output into your report):
->```
+```
  cd
  mkdir test
  cd test
@@ -39,7 +39,7 @@
 
 ![1](screenshots/3.png)
 
->```
+```
  (now a soft link)
  ln -s test2.txt test3.txt
  ls -l .
