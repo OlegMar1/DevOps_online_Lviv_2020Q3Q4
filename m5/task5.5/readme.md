@@ -1,10 +1,12 @@
 # <p align="center">__TASK 5.5__</p>
 
-***
+---
+
 0. I had a lot of trubles with this because i chose to use Virtual Machine from GCP. But the Google Compute Engine quota module is not in the kernel. So i must tryed a lot of different  ways to solve this problem. And eventually I won. In the next image you can see one of many problems.
 
 ![11](screenshots/0.png)
 
+---
 
 1. Connect to GCP Virtual Machine with SSH
 
@@ -108,4 +110,4 @@
 
 ---
 
-<p align="center">__TASK SUCCESSFULLY COMPLEATED :)__</p>
+__<p align="center"> TASK  SUCCESSFULLY COMPLEATED :)</p>__
