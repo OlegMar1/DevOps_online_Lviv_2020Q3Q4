@@ -2,7 +2,7 @@
 
 ---
 
-0. I had a lot of troubles with this because i chose to use Virtual Machine from GCP. But the Google Compute Engine quota module is not in the kernel. So I tryed a lot of different  ways to solve this problem. And eventually I won. In the next image you can see one of many problems.
+0. I had some troubles with this because i chose to use Virtual Machine from GCP. But the Google Compute Engine quota module is not in the kernel. So I tryed a lot of different  ways to solve this problem. And eventually I won. In the next image you can see one of many problems.
 
 ![11](screenshots/0.png)
 
