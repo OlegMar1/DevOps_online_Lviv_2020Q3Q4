@@ -42,6 +42,7 @@ interfaces in order to make VM2 has an access to the Internet (iptables, forward
 
 
   * enable ip forwarding
+
   ![1](screenshots/5.png)
 
 
@@ -58,7 +59,7 @@ interfaces in order to make VM2 has an access to the Internet (iptables, forward
 
 3. Check the route from VM2 to Host.
 
-  * `$ route` for VM2
+  * `$ route -n` for VM2
 
   ![1](screenshots/11.png)
 
