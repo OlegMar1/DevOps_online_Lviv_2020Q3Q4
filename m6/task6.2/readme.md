@@ -68,12 +68,12 @@
 
   3.1 __for DMSMASQ__
 
-  * `$ ip a` for VM2
+  * `$ ip a` from VM2
 
   ![1](screenshots/11.png)
 
 
-  * `$ ip a` for VM3
+  * `$ ip a` from VM3
 
   ![1](screenshots/12.png)
 
@@ -81,12 +81,12 @@
 
   3.2 __for VBoxManage__
 
-  * `$ dhclient -r` and `dhclient` to give a new ip for VM2. And later`$ ip a` for VM2
+  * `$ dhclient -r` and `dhclient` to give a new ip for VM2. And later`$ ip a` from VM2
 
   ![1](screenshots/16.png)
 
 
-  * `$ dhclient -r` and `dhclient` to give a new ip for VM3. And later`$ ip a` for VM3
+  * `$ dhclient -r` and `dhclient` to give a new ip for VM3. And later`$ ip a` from VM3
 
   ![1](screenshots/17.png)
 
@@ -135,7 +135,7 @@
   ![1](screenshots/22.png)
 
 
-  * `$ ip a` for R1 (enp0s3 = NAT; enp0s8 = INTERNAL; enp0s9 = INTERNAL)
+  * `$ ip a` from R1 (enp0s3 = NAT; enp0s8 = INTERNAL; enp0s9 = INTERNAL)
 
   ![1](screenshots/23.png)
 
@@ -178,7 +178,7 @@
   ![1](screenshots/30.png)
 
 
-  * `ip show ospf route` for R1
+  * `ip show ospf route` from R1
 
   ![1](screenshots/31.png)
 
@@ -188,12 +188,12 @@
   ![1](screenshots/32.png)
 
 
-  * `$ ip a` for R2 (enp0s3 = NAT; enp0s8 = INTERNAL; enp0s9 = INTERNAL)
+  * `$ ip a` from R2 (enp0s3 = NAT; enp0s8 = INTERNAL; enp0s9 = INTERNAL)
 
   ![1](screenshots/33.png)
 
 
-  * run `vtysh` and after that run some commands in R2 after that run `show ip ospf route`
+  * run `vtysh` and after that run some commands from R2 after that run `show ip ospf route`
 
   ![1](screenshots/34.png)
 
@@ -206,7 +206,7 @@
   ![1](screenshots/35.png)
 
 
-  * `$ ip a` for M1 (enp0s3 = INTERNAL)
+  * `$ ip a` from M1 (enp0s3 = INTERNAL)
 
   ![1](screenshots/36.png)
 
@@ -216,7 +216,7 @@
   ![1](screenshots/37.png)
 
 
-  * `$ ip a` for M2 (enp0s3 = INTERNAL)
+  * `$ ip a` from M2 (enp0s3 = INTERNAL)
 
   ![1](screenshots/38.png)
 
