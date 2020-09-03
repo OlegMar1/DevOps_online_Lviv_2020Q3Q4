@@ -241,8 +241,8 @@
   ![1](screenshots/42.png)
 
 
-  * So, ospf routing have some pitfalls, but  I think I have done it successfully. I hope you will accept this task for me! ^_^
-
+  * So, ospf routing have some pitfalls, but  I think I have done it successfully.
+  
 ---
 
 __USEFUL LINKS__
