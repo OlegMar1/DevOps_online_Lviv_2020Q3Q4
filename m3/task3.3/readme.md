@@ -33,5 +33,6 @@ Create a script that uses the following keys:
 
   ![1](screenshots/4.png)
 
-<a href="files/script" download>Click to Download My Script</a>
+<a href="files/script" download>Go to My Script</a>
+
 ---
