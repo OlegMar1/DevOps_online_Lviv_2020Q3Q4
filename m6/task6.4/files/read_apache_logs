@@ -1,0 +1,127 @@
+#!/bin/bash
+file_out=out_script1
+
+
+function script_help () {
+	echo -e "\nCreated by Oleh Mykhasiv\n"
+
+	echo -e "\t--popular_ip [FILE]"
+	echo -e "\t\tShow IP with the most requests\n"
+
+	echo -e "\t--popylar_page [FILE]"
+	echo -e "\t\tShow the most requester page\n"
+
+	echo -e "\t--count_of_requests [FILE]"
+	echo -e "\t\tShow the number of requests made from each IP\n"
+
+	echo -e "\t--non-existent_pages [FILE]"
+	echo -e "\t\tShow non-existent pages referenced by clients\n"
+
+	echo -e "\t--popular_time [FILE]"
+	echo -e "\t\tShow time with the most requests\n"
+
+	echo -e "\t--find_bots [FILE]"
+	echo -e "\t\tShow bots that accessed the site (AU + IP)\n"
+
+}
+
+
+function popular_ip () {
+	awk '{print $1}' $1 | sort | uniq -c | sort -gr | awk '{print $2}'> $file_out
+	{
+		read line1
+	}<$file_out
+
+	echo -e "\nThe most popular ip: $line1\n"
+
+}
+
+
+function popular_page () {
+	awk '{print $7}' $1 | sort | uniq -c | sort -gr | awk '{print $2}'> $file_out
+	{
+		read line1
+	}<$file_out
+	echo -e "\nThe most popular page: $line1\n"
+}
+
+
+function count_of_requests () {
+	awk '{print $1}' $1 | sort | uniq -c | sort -gr | awk '{print "IP " $2 "   "" \t -- " $1 " requests"}'
+}
+
+
+function non-existent_pages () {
+echo -e "\n=========FIRST WAY============"
+awk '{if ($9 == "302") print $1 "\t" $7}' $1
+# when we go to non-existend site, it redirect us and we have 302 HTTP code
+
+echo -e "\n=========SECOND WAY=============="
+grep -B 1 "/error404" $1 | grep -v "/error404" | grep -v "\--" | awk '{print $1 "\t" $7}' | grep -v "^$" | sort | uniq
+# if we go to the non-existent page, our next request will have "/error404", so we need show pages in request before "/error404"
+# I think this way is better then previous one
+}
+
+
+function popular_time () {
+	awk -F: '{print $2}' $1 | uniq -c | sort -gr | awk '{print $2}' > $file_out
+	{
+		read hour
+	}<$file_out
+
+	awk -F: '{if ($2 = $hour) print $3}' $1 | uniq -c | sort -gr | awk '{print $2}' > $file_out
+	{
+		read minute
+	}<$file_out
+
+	echo -e "\nThe most popylar time: $hour:$minute\n"
+}
+
+
+function find_bots () {
+	awk -F\- '{$2="";$3="";print}' $1 | awk -F\" '{print $1 "\t"  $3}' | grep -i bot | sort -n | uniq
+}
+
+#===================MAIN======================
+if [ $# -lt 2 ]
+	then
+	script_help
+ş	exit 1
+
+fi
+
+case "$1" in
+
+	"--popular_ip")
+	popular_ip $2
+	;;
+
+	"--popular_page")
+	popular_page $2
+	;;
+
+	"--popular_time")
+	popular_time $2
+	;;
+
+	"--count_of_requests")
+	count_of_requests $2
+	;;
+
+	"--non-existent_pages")
+	non-existent_pages $2
+	;;
+
+	"--find_bots")
+	find_bots $2
+	;;
+
+	"--help")
+	script_help
+	;;
+
+	*)
+	script_help
+	;;
+
+esac
