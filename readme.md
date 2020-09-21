@@ -2,75 +2,72 @@
 
 ---
 
-1. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/tree/master/m1">DevOps Introduction</a>
+__1.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/tree/master/m1">DevOps Introduction</a>
 
-  1.1. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m1/task1.1/readme.md">Describe in your own words what DevOps is.</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;__1.1.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m1/task1.1/readme.md">Describe in your own words what DevOps is.</a>
 
-  1.2. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m1/task1.2/readme.md">GitHub Introduction</a>
-
----
-
-2. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/tree/master/m2">Virtualization and Cloud Basic</a>
-
-  2.1. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m2/task2.1/readme.md">Deskribe different hypervisors for infrastructure virtualization</a>
-
-  2.2. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m2/task2.2/readme.md">Work with VirtualBox and Vagrant</a>
-
-  2.3. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m2/task2.3/readme.md">AWS Introduction</a>
-
-  2.4. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m2/task2.4/readme.md">Work with Docker and ECS</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;__1.2.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m1/task1.2/readme.md">GitHub Introduction</a>
 
 ---
 
-3. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/tree/master/m3">Database Administration</a>
+__2.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/tree/master/m2">Virtualization and Cloud Basic</a>
 
-  3.1. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m3/task3.1/readme.md">Work with MySQL</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;__2.1.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m2/task2.1/readme.md">Deskribe different hypervisors for infrastructure virtualization</a>
 
-  3.2. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m3/task3.2/readme.md">Transfer local database to RDS AWS</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;__2.2.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m2/task2.2/readme.md">Work with VirtualBox and Vagrant</a>
 
----
+  &nbsp;&nbsp;&nbsp;&nbsp;__2.3.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m2/task2.3/readme.md">AWS Introduction</a>
 
-4. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/tree/master/m4">Networking Fundamentals</a>
-
-  4.1. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m4/task4.1/readme.md">Cisco Packet Tracer Introduction</a>
-
-  4.2. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m4/task4.2/readme.md">Create difficult networks in Cisko Packet Tracer</a>
-
-  4.3. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m4/task4.3/readme.md">Work with router CLI, setup RIP</a>
-
-  4.4. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m4/task4.4/readme.md">(BONUS) Setup routing between two routers, setup DHCP</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;__2.4.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m2/task2.4/readme.md">Work with Docker and ECS</a>
 
 ---
 
-5. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/tree/master/m5">Linux Essentials</a>
+__3.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/tree/master/m3">Database Administration</a>
 
-  5.1. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m5/task5.1/readme.md">Linux Introduction. Part: 1</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;__3.1.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m3/task3.1/readme.md">Work with MySQL</a>
 
-  5.2. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m5/task5.2/readme.md">Linux Introduction. Part: 2</a>
-
-  5.3. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m5/task5.3/readme.md">Linux Introduction. Part: 3</a>
-
-  5.4. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m5/task5.4/readme.md">Create users, groups and experience with permissions</a>
-
-  5.5. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m5/task5.5/readme.md">Experience with quotas</a>
-
-  5.6. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m5/task5.6/readme.md">Experience with ACL</a>
-
-  5.7. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m5/task5.7/readme.md">Experience with SSH</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;__3.2.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m3/task3.2/readme.md">Transfer local database to RDS AWS</a>
 
 ---
 
-6. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/tree/master/m6">Networking using Linux && Linux Administration with Bash</a>
+__4.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/tree/master/m4">Networking Fundamentals</a>
 
-  6.1. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m6/task6.1/readme.md">IP routing in VirtualBox</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;__4.1.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m4/task4.1/readme.md">Cisco Packet Tracer Introduction</a>
 
-  6.2. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m6/task6.2/readme.md">Configuring  DHCP, DNS servers and dynamic routing using OSPF protocol</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;__4.2.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m4/task4.2/readme.md">Create difficult networks in Cisko Packet Tracer</a>
 
-  6.3. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m6/task6.3/readme.md">Simply Network Mapper in Bash</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;__4.3.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m4/task4.3/readme.md">Work with router CLI, setup RIP</a>
 
-  6.4. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m6/task6.4/readme.md">Scan Apache logs (experience with awk and grep)</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;__4.4.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m4/task4.4/readme.md">(BONUS) Setup routing between two routers, setup DHCP</a>
 
-  6.5. <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m6/task6.5/readme.md">Experience with `ersynk` and `crontab` </a>
+---
 
+__5.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/tree/master/m5">Linux Essentials</a>
 
-  <a href=""></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;__5.1.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m5/task5.1/readme.md">Linux Introduction. Part: 1</a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;__5.2.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m5/task5.2/readme.md">Linux Introduction. Part: 2</a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;__5.3.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m5/task5.3/readme.md">Linux Introduction. Part: 3</a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;__5.4.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m5/task5.4/readme.md">Create users, groups and experience with permissions</a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;__5.5.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m5/task5.5/readme.md">Experience with quotas</a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;__5.6.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m5/task5.6/readme.md">Experience with ACL</a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;__5.7.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m5/task5.7/readme.md">Experience with SSH</a>
+
+---
+
+__6.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/tree/master/m6">Networking using Linux && Linux Administration with Bash</a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;__6.1.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m6/task6.1/readme.md">IP routing in VirtualBox</a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;__6.2.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m6/task6.2/readme.md">Configuring  DHCP, DNS servers and dynamic routing using OSPF protocol</a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;__6.3.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m6/task6.3/readme.md">Simply Network Mapper in Bash</a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;__6.4.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m6/task6.4/readme.md">Scan Apache logs (experience with awk and grep)</a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;__6.5.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m6/task6.5/readme.md">Experience with `ersynk` and `crontab` </a>
