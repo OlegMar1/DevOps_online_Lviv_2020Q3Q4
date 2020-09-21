@@ -33,7 +33,7 @@
 
   ---
 
-  2. From which ip were the most requests?
+  2. What is the most requested page?
 
     * code
 
@@ -46,7 +46,7 @@
 
 ---
 
-3. From which ip were the most requests?
+3. How many requests were there from each ip?
 
   * code
 
@@ -59,7 +59,7 @@
 
 ---
 
-4. From which ip were the most requests?
+4. What non-existent pages were clients referred to?
 
   * code
 
@@ -72,7 +72,7 @@
 
 ---
 
-5. From which ip were the most requests?
+5. What time did site get the most requests?
 
   * code
 
@@ -85,7 +85,7 @@
 
 ---
 
-6. From which ip were the most requests?
+6. What search bots have accessed the site? (AU + IP)
 
   * code
 
@@ -95,3 +95,7 @@
   * run it
 
   ![1](screenshots/14.png)
+
+---
+
+### Thank you for this task it was a wonderful experience :)
