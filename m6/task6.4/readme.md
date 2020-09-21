@@ -35,13 +35,13 @@
 
   2. What is the most requested page?
 
-    * code
+  * code
 
-    ![1](screenshots/5.png)
+  ![1](screenshots/5.png)
 
-    * run it
+  * run it
 
-    ![1](screenshots/6.png)
+  ![1](screenshots/6.png)
 
 ---
 
