@@ -12,6 +12,8 @@ In case of adding new or deleting old files, the script must add a corresponding
 
 ---
 
+<a href="files/new_script" download>Go to My Script</a>
+
 1. Create script
 
 ![1](screenshots/1.png)
