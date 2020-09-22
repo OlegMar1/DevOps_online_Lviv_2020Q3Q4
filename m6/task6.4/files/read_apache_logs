@@ -23,27 +23,24 @@ function script_help () {
 	echo -e "\t--find_bots [FILE]"
 	echo -e "\t\tShow bots that accessed the site (AU + IP)\n"
 
+	echo -e "\t--help"
+	echo -e "\t\tShow manual\n"
 }
 
 
 function popular_ip () {
-	awk '{print $1}' $1 | sort | uniq -c | sort -gr | awk '{print $2}'> $file_out
-	{
-		read line1
-	}<$file_out
-
-	echo -e "\nThe most popular ip: $line1\n"
-
+	echo ""
+	awk '{print $1}' $1 | sort | uniq -c | sort -gr | awk '{print "The most popular IP: " $2}' | head -1
+	echo ""
 }
 
 
 function popular_page () {
-	awk '{print $7}' $1 | sort | uniq -c | sort -gr | awk '{print $2}'> $file_out
-	{
-		read line1
-	}<$file_out
-	echo -e "\nThe most popular page: $line1\n"
+	echo ""
+	awk '{print $7}' $1 | sort | uniq -c | sort -gr | awk '{print "The most popular page: " $2}' | head -1
+	echo ""
 }
+
 
 
 function count_of_requests () {
@@ -64,15 +61,9 @@ grep -B 1 "/error404" $1 | grep -v "/error404" | grep -v "\--" | awk '{print $1 
 
 
 function popular_time () {
-	awk -F: '{print $2}' $1 | uniq -c | sort -gr | awk '{print $2}' > $file_out
-	{
-		read hour
-	}<$file_out
+	hour=$(awk -F: '{print $2}' $1 | uniq -c | sort -gr | awk '{print $2}' | head -1)
 
-	awk -F: '{if ($2 = $hour) print $3}' $1 | uniq -c | sort -gr | awk '{print $2}' > $file_out
-	{
-		read minute
-	}<$file_out
+	minute=$(awk -F: '{if ($2 = $hour) print $3}' $1 | uniq -c | sort -gr | awk '{print $2}' | head -1)
 
 	echo -e "\nThe most popylar time: $hour:$minute\n"
 }
@@ -86,7 +77,7 @@ function find_bots () {
 if [ $# -lt 2 ]
 	then
 	script_help
-ş	exit 1
+	exit 1
 
 fi
 
