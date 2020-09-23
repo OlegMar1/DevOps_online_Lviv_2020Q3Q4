@@ -38,6 +38,20 @@ In case of adding new or deleting old files, the script must add a corresponding
 ![1](screenshots/5.png)
 
 ---
+## <p align="center">__VERSION 2.0__</p>
+## __the next day I improved my task and under this text you can see new screenshots__
+
+* #### script:
+
+![1](screenshots/6.png)
+
+
+* #### log (this log is better, because in my opinion it is more beautiful and it don't have any redundant information, only date, time, action and file name)
+
+![1](screenshots/7.png)
+
+---
+
 
 ## USEFUL INFORMATION
 
