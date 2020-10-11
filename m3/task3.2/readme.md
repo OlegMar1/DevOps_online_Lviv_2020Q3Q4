@@ -64,4 +64,4 @@
 
   * run `mysql -h database-3.cepkgcv3gubv.eu-central-1.rds.amazonaws.com -u admin -p -P 3306 < gamedb.sql` and as you can see, I did it successfully! My DB is in RDS.
 
-  ![1](screenshots/11.png)
+  ![1](screenshots/11.png) 
