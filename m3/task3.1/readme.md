@@ -93,4 +93,4 @@
 
   * `SELECT user,authentication_string,plugin,host FROM mysql.user;` (I chose the most important variables)
 
-  ![1](screenshots/14.png)
+  ![1](screenshots/14.png) 
