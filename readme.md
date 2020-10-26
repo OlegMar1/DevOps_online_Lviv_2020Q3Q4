@@ -71,3 +71,9 @@ __6.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/tree/mas
   &nbsp;&nbsp;&nbsp;&nbsp;__6.4.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m6/task6.4/readme.md">Scan Apache logs (experience with awk and grep)</a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;__6.5.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m6/task6.5/readme.md">Experience with `rsynk` and `crontab` </a>
+
+---
+
+__7.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/tree/master/m7">Python Introduction</a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;__6.1.__ <a href="https://github.com/OlegMar1/DevOps_online_Lviv_2020Q3Q4/blob/master/m7/task7.1/readme.md">FizzBuzz function, unit-tests, function for counting vowels</a>
